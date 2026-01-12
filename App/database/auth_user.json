@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Hema Mehta",
+        "staff_id": "4fa9",
+        "email": "hema@gmail.com",
+        "address": "Almora",
+        "phone_number": "8755098705",
+        "department": "Management",
+        "role": "Admin",
+        "password": "Hema@123"
+    },
+    {
+        "name": "nikki",
+        "staff_id": "2D5F",
+        "email": "nikki@gmail.com",
+        "address": "Almora",
+        "phone_number": "8978987898",
+        "department": "Kitchen",
+        "role": "Staff",
+        "password": "Nikki@123"
+    },
+    {
+        "name": "Neha",
+        "staff_id": "E339",
+        "email": "Neha@gmail.com",
+        "address": "Bageshwer",
+        "phone_number": "7898789878",
+        "department": "Management",
+        "role": "Staff",
+        "password": "Neha@123"
+    }
+]

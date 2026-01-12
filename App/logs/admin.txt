@@ -1,0 +1,163 @@
+
+[2026-01-11 23:19:38] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:19:41] | ID: Unknown | Email: Unknown | Type: INFO | Function: report_management | Message: Selected Sales Report
+[2026-01-11 23:19:41] | ID: Unknown | Email: Unknown | Type: TypeError | Function: run | Message: Error: ReportClass.run() missing 1 required positional argument: 'self'
+[2026-01-11 23:21:28] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:21:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: report_management | Message: Selected Sales Report
+[2026-01-11 23:21:31] | ID: Unknown | Email: Unknown | Type: TypeError | Function: run | Message: Error: ReportClass.run() missing 1 required positional argument: 'self'
+[2026-01-11 23:23:59] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:24:01] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-11 23:24:01] | ID: Unknown | Email: Unknown | Type: TypeError | Function: run | Message: Error: ReportClass.run() missing 1 required positional argument: 'self'
+[2026-01-11 23:30:14] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:30:17] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-11 23:34:17] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:34:20] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-11 23:35:46] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:35:48] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-11 23:44:16] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:44:19] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-11 23:46:41] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-11 23:46:43] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:13:40] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:13:43] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:31:32] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:31:37] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 07:31:48] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:31:59] | ID: Unknown | Email: Unknown | Type: AttributeError | Function: run | Message: Error: type object 'BillReportManager' has no attribute 'load_bills'
+[2026-01-12 07:34:12] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:34:15] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:36:29] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:36:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:42:27] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:42:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:49:14] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:49:16] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:49:44] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 07:58:23] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 07:58:26] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 08:04:23] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:04:26] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 08:05:05] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 08:07:09] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 08:07:21] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:07:24] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:08:07] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 08:08:21] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 08:08:50] | ID: Unknown | Email: Unknown | Type: ValueError | Function: run | Message: Error: invalid literal for int() with base 10: 'D'
+[2026-01-12 08:08:59] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 08:11:05] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:11:08] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 08:13:23] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:13:28] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 08:14:52] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:15:04] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 08:18:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:18:34] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:19:25] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:19:28] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:21:41] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:21:43] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:26:59] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:27:01] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:29:14] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:29:17] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:39:12] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:39:14] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:41:22] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:41:25] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:45:48] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:45:50] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:47:01] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:47:03] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:49:19] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:49:21] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:52:32] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:52:36] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:55:46] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:55:51] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 08:57:12] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 08:57:14] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:57:14] | ID: Unknown | Email: Unknown | Type: AttributeError | Function: run | Message: Error: type object 'StaffManager' has no attribute 'run_staff_admin_menu'
+[2026-01-12 08:57:19] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 08:57:56] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 08:57:56] | ID: Unknown | Email: Unknown | Type: AttributeError | Function: run | Message: Error: type object 'StaffManager' has no attribute 'run_staff_admin_menu'
+[2026-01-12 09:00:02] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:00:04] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 09:00:15] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 09:01:58] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:02:01] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 09:03:35] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:03:39] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 09:04:13] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:04:19] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 09:08:55] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:09:03] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 09:09:25] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 09:09:50] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 09:09:59] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 09:16:54] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:16:56] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 09:18:28] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:18:29] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:18:43] | ID: Unknown | Email: Unknown | Type: TypeError | Function: run | Message: Error: float() argument must be a string or a real number, not 'NoneType'
+[2026-01-12 09:18:55] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:19:02] | ID: Unknown | Email: Unknown | Type: TypeError | Function: run | Message: Error: float() argument must be a string or a real number, not 'NoneType'
+[2026-01-12 09:19:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:20:03] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:20:07] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 09:21:45] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:21:46] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:21:56] | ID: Unknown | Email: Unknown | Type: TypeError | Function: run | Message: Error: float() argument must be a string or a real number, not 'NoneType'
+[2026-01-12 09:23:10] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:23:13] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:23:33] | ID: Unknown | Email: Unknown | Type: AttributeError | Function: run | Message: Error: 'AdminOrderManager' object has no attribute 'perform_cancel'
+[2026-01-12 09:26:33] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:26:35] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:29:51] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:29:54] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:32:55] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:32:59] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:33:39] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 09:34:12] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 09:41:44] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:41:46] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:50:02] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:50:03] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 09:56:25] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 09:56:27] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 10:16:58] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 10:17:00] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 10:17:37] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 10:17:45] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 10:18:17] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 10:18:27] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 10:27:54] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 10:27:57] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 10:28:10] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 10:28:12] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 10:28:16] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 10:28:21] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 10:28:26] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 10:28:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 10:28:38] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 10:28:46] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 10:29:15] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 10:29:22] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 10:29:32] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 10:29:41] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 10:46:25] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 10:46:27] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 10:46:49] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 10:48:47] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 10:48:50] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 10:49:04] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 10:49:06] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 10:49:44] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 10:49:51] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard
+[2026-01-12 12:07:31] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Opened Admin Dashboard
+[2026-01-12 12:07:33] | ID: Unknown | Email: Unknown | Type: INFO | Function: menu_management | Message: Selected Menu Management
+[2026-01-12 12:07:46] | ID: Unknown | Email: Unknown | Type: INFO | Function: admin_order | Message: Selected Order Management
+[2026-01-12 12:07:58] | ID: Unknown | Email: Unknown | Type: INFO | Function: staff_management | Message: Selected Staff Management
+[2026-01-12 12:08:09] | ID: Unknown | Email: Unknown | Type: INFO | Function: inventory_management | Message: Selected Inventory Management
+[2026-01-12 12:08:24] | ID: Unknown | Email: Unknown | Type: INFO | Function: run | Message: Selected Sales Report
+[2026-01-12 12:09:16] | ID: Unknown | Email: Unknown | Type: INFO | Function: exit | Message: Logged out from Admin Dashboard

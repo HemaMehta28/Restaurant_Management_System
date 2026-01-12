@@ -1,0 +1,92 @@
+[
+    {
+        "bill_id": "BILL-221603",
+        "order_id": "11221528",
+        "customer": "Walk-in Guest",
+        "payment_method": "CASH",
+        "final_amount": 1247.4,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-221634",
+        "order_id": "11212200",
+        "customer": "Walk-in Guest",
+        "payment_method": "CARD",
+        "final_amount": 103.95,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-222045",
+        "order_id": "11221528",
+        "customer": "Walk-in Guest",
+        "payment_method": "CASH",
+        "final_amount": 1247.4,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-222127",
+        "order_id": "11220604",
+        "customer": "Walk-in Guest",
+        "payment_method": "CASH",
+        "final_amount": 1122.66,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-222201",
+        "order_id": "C4F",
+        "customer": "hema",
+        "payment_method": "UPI",
+        "final_amount": 399.48,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-222600",
+        "order_id": "11222536",
+        "customer": "Walk-in Guest",
+        "payment_method": "UPI",
+        "final_amount": 1276.8,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-224757",
+        "order_id": "11224711",
+        "customer": "Walk-in Guest",
+        "payment_method": "CASH",
+        "final_amount": 857.5875,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-224806",
+        "order_id": "11224538",
+        "customer": "Walk-in Guest",
+        "payment_method": "CARD",
+        "final_amount": 519.75,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-234012",
+        "order_id": "11212200",
+        "customer": "Walk-in Guest",
+        "payment_method": "CASH",
+        "final_amount": 103.95,
+        "date": "2026-01-11",
+        "status": "PAID"
+    },
+    {
+        "bill_id": "BILL-105028",
+        "order_id": "12093230",
+        "customer": "Walk-in Guest",
+        "payment_method": "CASH",
+        "final_amount": 2005.08,
+        "date": "2026-01-12",
+        "status": "PAID"
+    }
+]

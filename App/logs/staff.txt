@@ -1,0 +1,61 @@
+[2026-01-11 21:47:43] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 21:47:47] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Invalid choice entered: 111
+[2026-01-11 21:47:52] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-11 21:48:18] | ID: 3E05 | Email: meenu@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:00:19] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:00:21] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:06:15] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-11 22:07:12] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:07:14] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:07:49] | ID: 2D5F | Email: nikki@gmail.com | Type: AttributeError | Function: StaffDashboard.run | Message: 'RestaurantConfigModel' object has no attribute 'order_history_file'
+[2026-01-11 22:15:04] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:15:09] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:16:03] | ID: 2D5F | Email: nikki@gmail.com | Type: AttributeError | Function: StaffDashboard.run | Message: 'RestaurantConfigModel' object has no attribute 'order_history_file'
+[2026-01-11 22:16:24] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:16:34] | ID: 2D5F | Email: nikki@gmail.com | Type: AttributeError | Function: StaffDashboard.run | Message: 'RestaurantConfigModel' object has no attribute 'order_history_file'
+[2026-01-11 22:18:32] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:18:34] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:18:35] | ID: 2D5F | Email: nikki@gmail.com | Type: AttributeError | Function: StaffDashboard.run | Message: 'RestaurantConfigModel' object has no attribute 'order_record_file'
+[2026-01-11 22:20:34] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:20:35] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:25:03] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:25:04] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:25:49] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:45:11] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:45:12] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:47:21] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-11 22:47:44] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 22:47:46] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-11 22:48:14] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-11 23:40:02] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-11 23:40:04] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 09:17:09] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 09:17:13] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 09:18:17] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 09:20:19] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 09:20:20] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 09:21:30] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 09:22:46] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 09:22:51] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 09:31:55] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 09:31:56] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 09:32:44] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 10:21:57] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 10:22:00] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 10:23:27] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: table_booking | Message: Selected Table Booking
+[2026-01-12 10:26:52] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 10:26:53] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: table_booking | Message: Selected Table Booking
+[2026-01-12 10:27:06] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 10:50:05] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 10:50:09] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 10:54:07] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 10:54:12] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 10:54:50] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 10:54:53] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 10:54:57] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 12:06:25] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 12:06:27] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: take_order | Message: Selected Take Food / Order
+[2026-01-12 12:06:41] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: table_booking | Message: Selected Table Booking
+[2026-01-12 12:07:21] | ID: 2D5F | Email: nikki@gmail.com | Type: INFO | Function: exit | Message: Exited Staff Dashboard
+[2026-01-12 12:11:58] | ID: E339 | Email: Neha@gmail.com | Type: INFO | Function: run | Message: Opened Staff Dashboard
+[2026-01-12 12:12:00] | ID: E339 | Email: Neha@gmail.com | Type: INFO | Function: table_booking | Message: Selected Table Booking

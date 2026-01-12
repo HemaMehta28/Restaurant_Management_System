@@ -1,0 +1,200 @@
+[2026-01-05 19:00:07] | ID: N/A | Email: N/A | Exception: AttributeError | Function: Staff.signin | Message: 'Validator' object has no attribute 'validate_experience'
+[2026-01-05 19:00:07] | ID: Unknown | Email: Unknown | Exception: AttributeError | Function: auth_main | Message: 'Validator' object has no attribute 'validate_experience'
+[2026-01-06 08:52:10] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-06 08:56:59] | ID: 74f6 | Email: neha@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-06 09:10:15] | ID: Unknown | Email: Unknown | Exception: Invalid Email | Function: login | Message: Invalid email entered
+[2026-01-06 09:10:33] | ID: Unknown | Email: Unknown | Exception: Invalid Email | Function: login | Message: Invalid email entered
+[2026-01-06 09:10:48] | ID: Unknown | Email: Unknown | Exception: Invalid Email | Function: login | Message: Invalid email entered
+[2026-01-06 09:12:30] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-06 15:58:20] | ID: 31c9 | Email: Nikki23@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-06 15:58:20] | ID: 31c9 | Email: Nikki23@gmail.com | Exception: TypeError | Function: auth_main | Message: StaffDashboard.run() missing 1 required positional argument: 'self'
+[2026-01-06 16:00:30] | ID: 403f | Email: Hemu@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-06 16:00:30] | ID: 403f | Email: Hemu@gmail.com | Exception: TypeError | Function: auth_main | Message: StaffDashboard.run() missing 1 required positional argument: 'self'
+[2026-01-06 16:02:29] | ID: b411 | Email: hemu@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-06 16:02:29] | ID: b411 | Email: hemu@gmail.com | Exception: TypeError | Function: auth_main | Message: StaffDashboard.run() missing 1 required positional argument: 'self'
+[2026-01-06 16:06:10] | ID: 6cf4 | Email: hemu@gmaill.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-06 16:09:47] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-06 16:09:47] | ID: 8d77 | Email: hema@gmail.com | Exception: AttributeError | Function: login | Message: 'Staff_login' object has no attribute 'admin_dashboard'
+[2026-01-06 16:11:05] | ID: 74f6 | Email: neha@gmail.com | Exception: Success | Function: login | Message: Staff login successful
+[2026-01-07 14:32:35] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-07 18:42:04] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-07 18:42:23] | ID: 8d77 | Email: hema@gmail.com | Exception: AttributeError | Function: login | Message: 'RestaurantMenu' object has no attribute 'get_next_id'
+[2026-01-07 18:42:58] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-07 18:43:17] | ID: 8d77 | Email: hema@gmail.com | Exception: AttributeError | Function: login | Message: 'RestaurantMenu' object has no attribute 'get_next_id'
+[2026-01-08 15:21:33] | ID: Unknown | Email: hh | Exception: Auth Failed | Function: login | Message: Invalid credentials
+[2026-01-08 15:27:02] | ID: Unknown | Email: hhs | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 15:30:57] | ID: 8d77 | Email: hema@gmail.com | Exception: Auth Failed | Function: login | Message: Wrong password
+[2026-01-08 15:35:04] | ID: 8d77 | Email: hema@gmail.com | Exception: Auth Failed | Function: login | Message: Wrong password
+[2026-01-08 15:35:15] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-08 15:36:47] | ID: Unknown | Email: hema@gmail. | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 15:36:57] | ID: 8d77 | Email: hema@gmail.com | Exception: Auth Failed | Function: login | Message: Wrong password
+[2026-01-08 15:37:01] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-08 15:38:00] | ID: 31c9 | Email: Nikki23@gmail.com | Exception: Success | Function: login | Message: Staff login successful
+[2026-01-08 15:49:02] | ID: ff35 | Email: Neha@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-08 15:49:28] | ID: ff35 | Email: Neha@gmail.com | Exception: Success | Function: login | Message: Staff login successful
+[2026-01-08 15:52:45] | ID: ff35 | Email: Neha@gmail.com | Exception: Success | Function: login | Message: Staff login successful
+[2026-01-08 16:29:00] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-08 16:33:14] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-08 16:50:30] | ID: ff35 | Email: Neha@gmail.com | Exception: Success | Function: login | Message: Staff login successful
+[2026-01-08 17:37:02] | ID: b3c9 | Email: indixpert@gmail.com | Exception: Success | Function: save_to_db | Message: Data saved successfully.
+[2026-01-08 17:37:31] | ID: b3c9 | Email: indixpert@gmail.com | Exception: Success | Function: login | Message: Staff login successful
+[2026-01-08 20:46:41] | ID: Unknown | Email: python -u "e:\Indixpert\PythonMajorProject\RestroMenegementSystem\main.py" | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 20:46:49] | ID: Unknown | Email: python -u "e:\Indixpert\PythonMajorProject\RestroMenegementSystem\main.py" | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 20:47:30] | ID: Unknown | Email: python -u "e:\Indixpert\PythonMajorProject\RestroMenegementSystem\main.py" | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 20:48:51] | ID: Unknown | Email: dd | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 20:48:56] | ID: Unknown | Email: hema@gmail.co | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 20:49:04] | ID: 8d77 | Email: hema@gmail.com | Exception: Auth Failed | Function: login | Message: Wrong password
+[2026-01-08 20:49:09] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-08 21:05:38] | ID:  | Email: h | Exception: Auth Failed | Function: login | Message: Email not found
+[2026-01-08 21:05:51] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin login successful
+[2026-01-08 21:23:21] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin logged in
+[2026-01-08 21:30:21] | ID: 8d77 | Email: hema@gmail.com | Exception: Success | Function: login | Message: Admin logged in
+[2026-01-08 21:37:42] | ID: 4fa9 | Email: hema@gmail.com | Exception: None | Function: Signin | Message: Success
+[2026-01-08 21:38:11] | ID: 2112 | Email: nikki@gmail.com | Exception: None | Function: Signin | Message: Success
+[2026-01-09 08:13:16] | ID: 86ca | Email: Priyanshi@gmail.com | Exception: None | Function: Signin | Message: Success
+[2026-01-09 11:17:37] | ID: 18DD | Email: hh | Exception: None | Function: Signin | Message: Success
+[2026-01-09 11:34:44] | ID: 2985 | Email: Hema@gmail.com | Exception: None | Function: Signin | Message: Success
+[2026-01-11 16:12:59] | ID: 3E05 | Email: meenu@gmail.com | Exception: None | Function: Signin | Message: Success
+[2026-01-11 16:16:48] | ID: None | Email: hema@gmail.com | Exception: SUCCESS | Function: login | Message: Admin Login
+[2026-01-11 16:21:25] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 16:21:31] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 20:12:46] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:14:09] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:27:02] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:32:39] | ID: 3E05 | Email: meenu@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 20:32:45] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:34:04] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:39:33] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:52:25] | ID: 2D5F | Email: nikki@gmail.com | Type: None | Message: Success
+[2026-01-11 20:52:39] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:54:49] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 20:59:53] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:02:56] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:08:14] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:09:33] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:10:19] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:13:13] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:13:34] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:14:36] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:15:58] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:20:03] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:21:29] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:31:24] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:37:52] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 21:37:57] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 21:44:55] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 21:47:15] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 21:47:43] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 21:48:18] | ID: 3E05 | Email: meenu@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:00:19] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:06:29] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:07:12] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:10:48] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:15:04] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:18:32] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:20:34] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:24:57] | ID: 2D5F | Email: nikki@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 22:25:03] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:28:36] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:31:41] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 22:31:45] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:34:08] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:36:25] | ID: N/A | Email: hema@123 | Type: AuthError | Message: Email not found
+[2026-01-11 22:36:35] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 22:36:40] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:41:07] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:45:11] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:47:39] | ID: 2D5F | Email: nikki@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-11 22:47:44] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 22:48:27] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 22:53:20] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:19:38] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:21:28] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:23:59] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:30:14] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:34:17] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:35:46] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:40:02] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-11 23:44:16] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:46:41] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:48:23] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-11 23:49:45] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 06:52:38] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 06:54:02] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 06:54:09] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 06:58:34] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 06:58:39] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:02:15] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 07:02:21] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:04:51] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:06:36] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 07:06:42] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:08:53] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:11:34] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 07:11:39] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:13:40] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:31:19] | ID: N/A | Email: hema@123 | Type: AuthError | Message: Email not found
+[2026-01-12 07:31:32] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:34:12] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:36:29] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:42:27] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:49:09] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 07:49:14] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 07:58:23] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:04:23] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:07:21] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:11:05] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:13:23] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:18:31] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:19:25] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:21:41] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:26:59] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:29:14] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:39:12] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:41:22] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:45:48] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:47:01] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:49:19] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:52:32] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:55:46] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 08:57:12] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:00:02] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:01:58] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:03:35] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:04:13] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:08:55] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:16:45] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 09:16:54] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:17:09] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 09:18:28] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:20:03] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:20:19] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 09:21:45] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:22:40] | ID: 2D5F | Email: nikki@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 09:22:46] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 09:23:10] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:26:33] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:29:51] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:31:55] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 09:32:55] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:41:44] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:50:02] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 09:56:21] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 09:56:25] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:16:49] | ID: N/A | Email: dd | Type: AuthError | Message: Email not found
+[2026-01-12 10:16:58] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:21:57] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 10:26:52] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 10:27:54] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:28:09] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:46:21] | ID: 4fa9 | Email: hema@gmail.com | Type: AuthError | Message: Incorrect password
+[2026-01-12 10:46:25] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:48:47] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:49:04] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 10:50:05] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 10:54:07] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 10:54:50] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 12:06:25] | ID: 2D5F | Email: nikki@gmail.com | Type: SUCCESS | Message: Staff Login
+[2026-01-12 12:07:31] | ID: 4fa9 | Email: hema@gmail.com | Type: SUCCESS | Message: Admin Login
+[2026-01-12 12:11:38] | ID: E339 | Email: Neha@gmail.com | Type: None | Message: Success
+[2026-01-12 12:11:58] | ID: E339 | Email: Neha@gmail.com | Type: SUCCESS | Message: Staff Login

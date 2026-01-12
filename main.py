@@ -1,3 +1,2 @@
-from App.auth.auth_menu import MainMenu
-ob=MainMenu()
-ob.main_menu()
+from App.auth.auth_menu import Auth_Menu
+Auth_Menu.main_menu() 

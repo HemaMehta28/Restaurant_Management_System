@@ -1,0 +1,292 @@
+{
+    "restaurant": {
+        "name": "My Restaurant",
+        "location": "123 Main St",
+        "contact": "123-456-7890",
+        "menu": {
+            "starters": {
+                "veg": [
+                    {
+                        "id": 1,
+                        "name": "Spring Rolls",
+                        "half": 100,
+                        "full": 180,
+                        "stock": 52.0
+                    },
+                    {
+                        "id": 2,
+                        "name": "Veg Samosa",
+                        "half": 60,
+                        "full": 110,
+                        "stock": 20
+                    },
+                    {
+                        "id": 3,
+                        "name": "Paneer Tikka",
+                        "half": 150,
+                        "full": 280,
+                        "stock": 79.0
+                    },
+                    {
+                        "id": 4,
+                        "name": "Hara Bhara Kabab",
+                        "half": 120,
+                        "full": 220,
+                        "stock": 90
+                    },
+                    {
+                        "id": 5,
+                        "name": "Crispy Corn",
+                        "half": 130,
+                        "full": 240,
+                        "stock": 110
+                    },
+                    {
+                        "id": 6,
+                        "name": "Honey Chilli Potato",
+                        "half": 140,
+                        "full": 250,
+                        "stock": 65
+                    },
+                    {
+                        "id": 7,
+                        "name": "Mushroom Duplex",
+                        "half": 160,
+                        "full": 300,
+                        "stock": 45
+                    }
+                ],
+                "nonveg": [
+                    {
+                        "id": 8,
+                        "name": "Chicken Wings",
+                        "half": 120,
+                        "full": 220,
+                        "stock": 85
+                    },
+                    {
+                        "id": 9,
+                        "name": "Fish Fry",
+                        "half": 140,
+                        "full": 260,
+                        "stock": 12
+                    },
+                    {
+                        "id": 10,
+                        "name": "Chicken Seekh",
+                        "half": 130,
+                        "full": 240,
+                        "stock": 95
+                    },
+                    {
+                        "id": 11,
+                        "name": "Egg Pakora",
+                        "half": 80,
+                        "full": 150,
+                        "stock": 0
+                    },
+                    {
+                        "id": 12,
+                        "name": "Mutton Cutlet",
+                        "half": 180,
+                        "full": 340,
+                        "stock": 60
+                    },
+                    {
+                        "id": 13,
+                        "name": "Prawns Tempura",
+                        "half": 250,
+                        "full": 480,
+                        "stock": 30
+                    }
+                ]
+            },
+            "mainCourse": {
+                "veg": [
+                    {
+                        "id": 14,
+                        "name": "Veg Biryani",
+                        "half": 120,
+                        "full": 220,
+                        "stock": 100
+                    },
+                    {
+                        "id": 15,
+                        "name": "Paneer Butter Masala",
+                        "half": 160,
+                        "full": 300,
+                        "stock": 120
+                    },
+                    {
+                        "id": 16,
+                        "name": "Dal Makhani",
+                        "half": 110,
+                        "full": 200,
+                        "stock": 150
+                    },
+                    {
+                        "id": 17,
+                        "name": "Mix Veg",
+                        "half": 100,
+                        "full": 180,
+                        "stock": 69.0
+                    },
+                    {
+                        "id": 18,
+                        "name": "Malai Kofta",
+                        "half": 170,
+                        "full": 320,
+                        "stock": 75
+                    },
+                    {
+                        "id": 19,
+                        "name": "Kadhai Paneer",
+                        "half": 165,
+                        "full": 310,
+                        "stock": 84
+                    }
+                ],
+                "nonveg": [
+                    {
+                        "id": 20,
+                        "name": "Chicken Biryani",
+                        "half": 180,
+                        "full": 320,
+                        "stock": 150
+                    },
+                    {
+                        "id": 21,
+                        "name": "Butter Chicken",
+                        "half": 200,
+                        "full": 380,
+                        "stock": 110
+                    },
+                    {
+                        "id": 22,
+                        "name": "Mutton Rogan Josh",
+                        "half": 250,
+                        "full": 480,
+                        "stock": 80
+                    },
+                    {
+                        "id": 23,
+                        "name": "Fish Curry",
+                        "half": 220,
+                        "full": 420,
+                        "stock": 70
+                    },
+                    {
+                        "id": 24,
+                        "name": "Chicken Kadai",
+                        "half": 190,
+                        "full": 360,
+                        "stock": 90
+                    },
+                    {
+                        "id": 25,
+                        "name": "Egg Curry",
+                        "half": 100,
+                        "full": 180,
+                        "stock": 100
+                    }
+                ]
+            },
+            "drinks": [
+                {
+                    "id": 26,
+                    "name": "Coca Cola",
+                    "price": 50,
+                    "stock": 188
+                },
+                {
+                    "id": 27,
+                    "name": "Fresh Lime Soda",
+                    "price": 60,
+                    "stock": 150
+                },
+                {
+                    "id": 28,
+                    "name": "Cold Coffee",
+                    "price": 90,
+                    "stock": 100
+                },
+                {
+                    "id": 29,
+                    "name": "Iced Tea",
+                    "price": 70,
+                    "stock": 120
+                },
+                {
+                    "id": 30,
+                    "name": "Mineral Water",
+                    "price": 20,
+                    "stock": 0
+                },
+                {
+                    "id": 31,
+                    "name": "Mango Lassi",
+                    "price": 80,
+                    "stock": 80
+                }
+            ],
+            "bread": [
+                {
+                    "id": 32,
+                    "name": "Tandoori Roti",
+                    "price": 15,
+                    "stock": 396
+                },
+                {
+                    "id": 33,
+                    "name": "Butter Naan",
+                    "price": 40,
+                    "stock": 485
+                },
+                {
+                    "id": 34,
+                    "name": "Garlic Naan",
+                    "price": 50,
+                    "stock": 200
+                },
+                {
+                    "id": 35,
+                    "name": "Lachha Paratha",
+                    "price": 45,
+                    "stock": 200
+                }
+            ],
+            "desserts": [
+                {
+                    "id": 36,
+                    "name": "Gulab Jamun",
+                    "price": 60,
+                    "stock": 16.0
+                },
+                {
+                    "id": 37,
+                    "name": "Vanilla Ice Cream",
+                    "price": 70,
+                    "stock": 180
+                },
+                {
+                    "id": 38,
+                    "name": "Rasmalai",
+                    "price": 90,
+                    "stock": 14
+                },
+                {
+                    "id": 39,
+                    "name": "Chocolate Brownie",
+                    "price": 120,
+                    "stock": 40
+                },
+                {
+                    "id": 40,
+                    "name": "Moong Dal Halwa",
+                    "price": 50,
+                    "stock": 30
+                }
+            ]
+        }
+    }
+}

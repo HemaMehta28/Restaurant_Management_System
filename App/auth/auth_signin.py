@@ -1,111 +1,77 @@
 import uuid
 import pwinput
-import os
-import json
-from .auth_validation import *
-from ..model.restromodel import class_model
+from .Auth_Filehandler import FileHandler, AuthLogger
+from ..model.Auth_model import UserRoles, FileConfigModel
 
 class Staff:
     @classmethod
-    def get_input(cls, prompt, validator):
+    def get_input(cls, prompt, validator_func):
         while True:
-            if "Password" in prompt:
-                value = pwinput.pwinput(prompt)
-            else:
-                value = input(prompt)
-            error = validator(value)
-            if error:
-                print("Error:", error)
-            else:
+            value = pwinput.pwinput(prompt) if "Password" in prompt else input(prompt)
+            error = validator_func(value)
+            if error: 
+                print(f"Error: {error}")
+            else: 
                 return value
 
     @classmethod
-    def get_input_email(cls, prompt, validator, auth):
+    def get_input_email(cls, prompt, auth_instance, validator):
         while True:
             email = input(prompt)
-            error = validator(email)
-            if error:
-                print("Error:", error)
-            elif auth.check_email(email):
-                print("Email already exists. Please try another email.")
-            else:
+            error = validator.validate_email(email)
+            if error: 
+                print(f"Error: {error}")
+            elif auth_instance.check_email(email): 
+                print("Error: Email already exists. Please try another.")
+            else: 
                 return email
 
     @classmethod
-    def get_input_department(cls, prompt, validator):
+    def get_input_department(cls):
         while True:
-            print("Select Department:")
-            print("1. Kitchen")
-            print("2. Service")
-            print("3. Management")
-            choice = input(prompt)
-            if choice.isdigit() and 1 <= int(choice) <= 3:
-                departments = {1: "Kitchen", 2: "Service", 3: "Management"}
-                return departments[int(choice)]
+            print("\nSelect Department:\n1. Kitchen\n2. Service\n3. Management")
+            choice = input("Enter your choice (1-3): ")
+            departments = {"1": "Kitchen", "2": "Service", "3": "Management"}
+            if choice in departments:
+                return departments[choice]
             else:
-                print("Error: Invalid choice")
-
- 
+                print("Error: Invalid choice.")
 
     @classmethod
-    def signin(cls, auth):
-        name = cls.get_input("Enter the name: ", validate_name)
-        id = uuid.uuid4().hex[:4]
-        email = cls.get_input_email("Enter the email: ", validate_email, auth)
-        password = cls.get_input("Enter the Password:", validate_password)
-        address = cls.get_input("Enter the address: ", validate_address)
-        department = cls.get_input_department("Enter your choice: ", validate_department)
-        experience = cls.get_input("Enter the experience (in years): ", validate_experience)
-        role = "Staff"
-        staff = class_model()
-        staff.name = name
-        staff.id = id
-        staff.email = email
-        staff.address = address
-        staff.department = department
-        staff.experience = experience
-        staff.role = role
-        staff.password = password
-        return staff
+    def signin(cls, auth_instance, validator, model_class, role):
+        print(f"\n{'='*25} {role} Registration {'='*25}")
+        try:
+            user_obj = model_class()
+            user_obj.name = cls.get_input("Enter Name: ", validator.validate_name)
+            user_obj.email = cls.get_input_email("Enter Email: ", auth_instance, validator)
+            user_obj.password = cls.get_input("Enter Password: ", validator.validate_password)
+            user_obj.phone_number = cls.get_input("Enter Phone Number: ", validator.validate_phone_number)
+            user_obj.address = cls.get_input("Enter Address: ", validator.validate_address)
+            user_obj.department = cls.get_input_department()
+            user_obj.staff_id = uuid.uuid4().hex[:4].upper()
+            user_obj.role = role
+            return user_obj
+        except Exception as e:
+            print(f"Error during input: {e}")
+            return None
 
 class auth_class:
-    def __init__(self):
-        self.db_folder = 'App/database'
-        self.db_file = 'staff.json'
+    def __init__(self, validator_instance, model_class, config_instance):
+        self.db = FileHandler(config=config_instance)
+        self.validator = validator_instance
+        self.model_class = model_class
+        self.config = config_instance
 
     def check_email(self, email):
-        file_path = os.path.join(self.db_folder, self.db_file)
-        if os.path.exists(file_path):
-            with open(file_path, 'r') as file:
-                existing_data = json.load(file)
-                for data in existing_data:
-                    if data['email'] == email:
-                        return True
-        return False
-
-    def save_to_db(self, data):
-        file_path = os.path.join(self.db_folder, self.db_file)
-        if os.path.exists(file_path):
-            with open(file_path, 'r+') as file:
-                existing_data = json.load(file)
-                existing_data.append(data)
-                file.seek(0)
-                json.dump(existing_data, file, indent=4)
-                file.truncate()
-        else:
-            with open(file_path, 'w') as file:
-                json.dump([data], file, indent=4)
+        users = self.db.read_all()
+        return any(u.get('email') == email for u in users)
 
     def auth_main(self):
-        staff = Staff.signin(self)
-        if staff:
-            print("Staff signed in successfully")
-            staff_data = staff.__dict__
-            if not os.path.exists(self.db_folder):
-                os.makedirs(self.db_folder)
-            self.save_to_db(staff_data)
-            print("Data saved to database successfully")
-
-
-
-
+        users = self.db.read_all()
+        role = UserRoles.ADMIN if not users else UserRoles.STAFF
+        staff_obj = Staff.signin(self, self.validator, self.model_class, role)
+        
+        if staff_obj:
+            if self.db.save_one(staff_obj.to_dict()):
+                AuthLogger.write_log(staff_obj.staff_id, staff_obj.email, "None", "Signin", "Success", self.config)
+                print(f"\n[✔] {role} Registered Successfully! ID: {staff_obj.staff_id}")

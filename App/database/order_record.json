@@ -1,0 +1,136 @@
+[
+    {
+        "order_id": "11222536",
+        "order_date": "2026-01-11 22:25:36",
+        "customer_name": "Walk-in Guest",
+        "table_no": "N/A",
+        "booking_fee": 0.0,
+        "food_total": 1280.0,
+        "grand_total": 1280.0,
+        "items": [
+            {
+                "name": "MIX VEG (HALF)",
+                "qty": 2,
+                "subtotal": 200.0
+            },
+            {
+                "name": "RASMALAI",
+                "qty": 12,
+                "subtotal": 1080.0
+            }
+        ],
+        "status": "Completed",
+        "payment_method": "UPI",
+        "grand_total_after_discount": 1276.8,
+        "discount_percent": 5,
+        "discount_amount": 64.0,
+        "gst": 60.800000000000004,
+        "timestamp": "2026-01-11 22:26:00"
+    },
+    {
+        "order_id": "11224711",
+        "order_date": "2026-01-11 22:47:11",
+        "customer_name": "Walk-in Guest",
+        "table_no": "N/A",
+        "booking_fee": 0.0,
+        "food_total": 825.0,
+        "grand_total": 825.0,
+        "items": [
+            {
+                "name": "MIX VEG (FULL)",
+                "qty": 1,
+                "subtotal": 180.0
+            },
+            {
+                "name": "BUTTER NAAN",
+                "qty": 12,
+                "subtotal": 480.0
+            },
+            {
+                "name": "KADHAI PANEER (HALF)",
+                "qty": 1,
+                "subtotal": 165.0
+            }
+        ],
+        "status": "Completed",
+        "payment_method": "CASH",
+        "grand_total_after_discount": 857.5875,
+        "discount_percent": 1,
+        "discount_amount": 8.25,
+        "gst": 40.837500000000006,
+        "timestamp": "2026-01-11 22:47:57"
+    },
+    {
+        "order_id": "11224538",
+        "order_date": "2026-01-11 22:45:38",
+        "customer_name": "Walk-in Guest",
+        "table_no": "N/A",
+        "booking_fee": 0.0,
+        "food_total": 500.0,
+        "grand_total": 500.0,
+        "items": [
+            {
+                "name": "COCA COLA",
+                "qty": 10,
+                "subtotal": 500.0
+            }
+        ],
+        "status": "Completed",
+        "payment_method": "CARD",
+        "grand_total_after_discount": 519.75,
+        "discount_percent": 1,
+        "discount_amount": 5.0,
+        "gst": 24.75,
+        "timestamp": "2026-01-11 22:48:06"
+    },
+    {
+        "order_id": "11212200",
+        "order_date": "2026-01-11 21:22:00",
+        "customer_name": "Walk-in Guest",
+        "table_no": "N/A",
+        "booking_fee": 0.0,
+        "food_total": 100.0,
+        "grand_total": 100.0,
+        "items": [
+            {
+                "name": "MIX VEG (HALF)",
+                "qty": 1,
+                "subtotal": 100.0
+            }
+        ],
+        "status": "Completed",
+        "payment_method": "CASH",
+        "grand_total_after_discount": 103.95,
+        "discount_percent": 1,
+        "discount_amount": 1.0,
+        "gst": 4.95,
+        "timestamp": "2026-01-11 23:40:12"
+    },
+    {
+        "order_id": "12093230",
+        "customer_name": "Walk-in Guest",
+        "booking_fee": 0.0,
+        "food_total": 2170.0,
+        "grand_total": 2170.0,
+        "items": [
+            {
+                "name": "RASMALAI",
+                "qty": 23,
+                "price": 90.0,
+                "subtotal": 2070.0
+            },
+            {
+                "name": "MIX VEG (HALF)",
+                "qty": 1,
+                "price": 100.0,
+                "subtotal": 100.0
+            }
+        ],
+        "payment_method": "CASH",
+        "grand_total_after_discount": 2005.08,
+        "discount_percent": 12,
+        "discount_amount": 260.4,
+        "gst": 95.48,
+        "timestamp": "2026-01-12 10:50:28"
+    }
+]
