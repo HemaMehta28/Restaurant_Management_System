@@ -1,0 +1,68 @@
+[
+    {
+        "booking_id": "C4F",
+        "table_number": 1,
+        "date": "2026-01-11",
+        "slot": "09:00 PM - 10:00 PM",
+        "customer_name": "hema",
+        "customer_phone": "7878987898",
+        "booked_seats": 3,
+        "booking_fee": 150,
+        "timestamp": "2026-01-11 21:00:12"
+    },
+    {
+        "booking_id": "C4F",
+        "table_number": 2,
+        "date": "2026-01-11",
+        "slot": "09:00 PM - 10:00 PM",
+        "customer_name": "hema",
+        "customer_phone": "7878987898",
+        "booked_seats": 4,
+        "booking_fee": 200,
+        "timestamp": "2026-01-11 21:00:18"
+    },
+    {
+        "booking_id": "E70",
+        "table_number": 1,
+        "date": "2026-01-11",
+        "slot": "10:00 PM - 11:00 PM",
+        "customer_name": "hemu",
+        "customer_phone": "1212121212",
+        "booked_seats": 2,
+        "booking_fee": 100,
+        "timestamp": "2026-01-11 21:31:57"
+    },
+    {
+        "booking_id": "9D0",
+        "table_number": 1,
+        "date": "2026-01-12",
+        "slot": "02:00 PM - 03:00 PM",
+        "customer_name": "nikita",
+        "customer_phone": "6767876787",
+        "booked_seats": 2,
+        "booking_fee": 100,
+        "timestamp": "2026-01-12 10:23:49"
+    },
+    {
+        "booking_id": "563",
+        "table_number": 1,
+        "date": "2026-01-12",
+        "slot": "02:00 PM - 03:00 PM",
+        "customer_name": "hema",
+        "customer_phone": "8978987898",
+        "booked_seats": 2,
+        "booking_fee": 100,
+        "timestamp": "2026-01-12 12:06:54"
+    },
+    {
+        "booking_id": "BC0",
+        "table_number": 1,
+        "date": "2026-01-13",
+        "slot": "02:00 PM - 03:00 PM",
+        "customer_name": "nikita",
+        "customer_phone": "8978987898",
+        "booked_seats": 4,
+        "booking_fee": 200,
+        "timestamp": "2026-01-12 12:07:13"
+    }
+]
